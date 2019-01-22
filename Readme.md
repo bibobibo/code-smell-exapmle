@@ -152,4 +152,4 @@ class FunctionLogger{
 
 ## 4. 过度耦合的消息链
 
-![耦合的消息链示例](./Message\ Chains.mp4)
+[消息链坏味道示例视频](http://player.youku.com/embed/XNDAyNTYxNjkxNg==)
